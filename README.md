@@ -1,5 +1,4 @@
-# [Starter] Udemy Project Vue Activity (Project 2)
-## This is what you need when starting Section 3! (:
+# Project Vue Activity
 
 ## Project setup
 ```
